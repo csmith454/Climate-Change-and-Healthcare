@@ -5,7 +5,7 @@ Project completed by Cole Smith, Ritika Palacharla, and Ginger Hudson in May 202
   and a country's healthcare expenses to understand how changing global temperatures impact the private and domestic 
   healthcare expenditures of countries around the world and across regions as described by the World Health Organization (WHO).
 
-  This project utilizes the WHO's Global Health Expenditure Dataset (GHED) and Berkeley Earth's global temperature dataset.  
+  This project utilizes the WHO's Global Health Expenditure Dataset (GHED) and Berkeley Earth's global temperature dataset.  Furthermore, we used Python through Jupyter Notebooks as the base of our code.  For analysis and plotting we utilized Pandas, Matplotlib, Altair, and Plotly and we created a user-friendly dashboard using Dash for viewing.
 
   Our analysis was initially concerned with determining the relationship between change in average temperature globally and 
   health expenditure. After seeing the lack of consistent correlation between temperature change and health expenditure, 
